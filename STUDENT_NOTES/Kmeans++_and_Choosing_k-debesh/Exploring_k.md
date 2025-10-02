@@ -73,8 +73,7 @@ Imagine sorting **candies into jars**:
 
 5. **Choose k** with maximum Gap.
 
-> Unlike the Elbow Method, Gap adds a baseline for comparison. It asks:  
-> *“Is my clustering actually meaningful, or would random points look just as good?”*  
+> Unlike the Elbow Method, Gap adds a baseline for comparison. It asks:  *“Is my clustering actually meaningful, or would random points look just as good?”*  
 
 ---
 
