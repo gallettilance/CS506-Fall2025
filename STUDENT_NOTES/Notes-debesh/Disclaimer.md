@@ -1,10 +1,10 @@
 # Disclaimer
 
-This summarizes key concepts related to **K–Means++** and the **choice of $k$ in clustering algorithms**, along with some supporting explanations and examples.  
+This contains lecture notes from lecture 3 to 9, with additional notes on Kmeans++ and Exploring K  
 
 ## Scope of Content
 - The material may contain topics, examples, or discussions **beyond the official syllabus**.  
-- These additional points are things which I found interesting!
+- There are additional points are things which I found interesting!
 - I have added ipynb files which may not necessarily be optimized.
 
 ## Use of AI Tools
