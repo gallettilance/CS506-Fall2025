@@ -1,6 +1,6 @@
 # Disclaimer
 
-This contains lecture notes from lecture 3 to 9, with additional notes on Kmeans++ and Exploring K  
+This contains lecture notes from lecture 3 to 19 (10th is the same as per repo), with additional notes on Kmeans++ and Exploring K  
 
 ## Scope of Content
 - The material may contain topics, examples, or discussions **beyond the official syllabus**.  
